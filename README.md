@@ -7,3 +7,4 @@
 3. Trying again with the format `[#153631339]`
 4. Finishing this story with `[Finishes #153631339]`
 5. Some work done on a new story `[#154239666]`
+6. Finishing another test story `[Finishes #154239666]`
